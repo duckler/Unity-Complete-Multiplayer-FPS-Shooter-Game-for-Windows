@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5ac89093b3bd67545a057fac5e5e9307
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clip: {instanceID: 0}
+  - clip_other: {fileID: 8300000, guid: 37128c974a3c3114ea9fd480219cce23, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
